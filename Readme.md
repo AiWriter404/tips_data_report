@@ -1,0 +1,10 @@
+# Tips for Data Analyst Report
+This Repository Contains a collect of tips and tricks for best practices to creative effective data analyst report. whether you ar a beginner or an experienced analyst, these tips will help you communicate your findings clearly and effectively.
+'''bash 
+# Creat a New Virtual Enviroment
+python -m venv .venv
+# Activate th Virtual enviroment in windows using gitbash
+source .venv/Script/activate
+# Create a requirements.txt file and add liberaries
+# Install Required Packages
+

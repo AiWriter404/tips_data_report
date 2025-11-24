@@ -7,4 +7,6 @@ python -m venv .venv
 source .venv/Script/activate
 # Create a requirements.txt file and add liberaries
 # Install Required Packages
+pip install -r requirements.txt
+# Time Stamp 18:40
 

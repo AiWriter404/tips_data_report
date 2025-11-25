@@ -10,4 +10,9 @@ source .venv/Script/activate
 pip install -r requirements.txt
 # Time Stamp 18:40
 pip install ipykernel openpyxl
+# Create a jupyternotebook
+pip install notebook
+# OR
+'''bash 
+# create ipynb file
 

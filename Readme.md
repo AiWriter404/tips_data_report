@@ -9,4 +9,5 @@ source .venv/Script/activate
 # Install Required Packages
 pip install -r requirements.txt
 # Time Stamp 18:40
+pip install ipykernel openpyxl
 

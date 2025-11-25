@@ -15,4 +15,9 @@ pip install notebook
 # OR
 '''bash 
 # create ipynb file
+# create new folder scripts and make a file of ipynb
+# Or you can run in git bash
+''' mkdir scripts
+cd scripts
+touch 01_data_analysis.ipynb
 

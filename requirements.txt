@@ -5,6 +5,4 @@ seaborn
 jupyter 
 plotly  
 scipy
-pandas-profiling
-statsmodels
 ipykernels

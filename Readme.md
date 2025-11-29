@@ -21,3 +21,4 @@ pip install notebook
 cd scripts
 touch 01_data_analysis.ipynb
 
+
